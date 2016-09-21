@@ -1,0 +1,1 @@
+//This is a super javascript file of ultimate power
